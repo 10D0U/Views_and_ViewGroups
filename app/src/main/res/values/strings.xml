@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Views and ViewGroup</string>
+    <string name="change">Change</string>
+    <string name="goodmorning_text">Good Morning. My name is Mg Mg.</string>
+    <string name="second_text">This is second text.</string>
+    <string name="kotlin_text">Kotlin is fun!</string>
+    <string name="java_text">Java is fun!</string>
+    <string name="previous_text">Prev</string>
+    <string name="next_text">Next</string>
+    <string name="fav_quote">Weak people revenge. Strong people forgive.</string>
+    <string name="love_quote">I love looking into those beautiful eyes of yours.</string>
+    <string name="default_text">Default</string>
+</resources>
